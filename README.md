@@ -2,7 +2,8 @@
 
 A powerful and highly customizable Flutter calendar widget that makes date selection beautiful and intuitive. Whether you're building a booking app, scheduling system, or any application that needs elegant date picking, CalendarSlot provides the flexibility and features you need.
 
-![Calendar_Day_Slot_Navigator Banner](https://gitlab.com/mohammedbakali.codexlancers/calendar-plugin/-/raw/main/assets/banner1.png)
+<img src="https://raw.githubusercontent.com/DevCodeSpace/calendar_day_slot_navigator/main/assets/banner1.png" />
+
 
 ## ✨ Features
 
@@ -246,7 +247,7 @@ dayDisplayMode: DayDisplayMode.insideDateBox
    - Consider font size and readability
 
 ## 🤝 Contributing
-![](https://gitlab.com/mohammedbakali.codexlancers/calendar-plugin/-/raw/main/assets/contributors.png)
+[![](https://raw.githubusercontent.com/DevCodeSpace/calendar_day_slot_navigator/refs/heads/main/assets/contributors.png)](https://github.com/DevCodeSpace/calendar_day_slot_navigator/graphs/contributors)
 
 ---
 >Made with ❤️ by the DevCodeSpace
