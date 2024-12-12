@@ -1,0 +1,38 @@
+name: calendar_day_slot_navigator
+description: Calendar Day Slot Navigator is a customizable Flutter widget for selecting dates, with support for various color palettes, date selection scenarios, and layout customizations.
+version: 0.0.1
+homepage: https://github.com/DevCodeSpace/calendar_day_slot_navigator
+issue_tracker: https://github.com/DevCodeSpace/calendar_day_slot_navigator/issues
+documentation: https://pub.dev/documentation/calendar_day_slot_navigator/latest/
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  mat_month_picker_dialog: ^1.1.2
+  sizer: ^2.0.15
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+screenshots:
+  - description: 'This image shows example of scrollable date picker.'
+    path: screenshots/calendar_day_slot_navigator_ss.png
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # To add assets to your package, add an assets section, like this:
+#   assets:
+#     - assets/
