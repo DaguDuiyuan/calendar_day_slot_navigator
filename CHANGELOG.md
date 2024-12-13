@@ -1,3 +1,31 @@
 ## 0.0.1
 
-* Version 1.0.0 introduces light/dark modes, customizable color palettes, border radius, header text, date selection scenarios, date range selection, multiple layouts, and customizable fonts and day box borders.
+🌟 Initial release of CalendarDaySlotNavigator package
+
+🎨 Theming support for light and dark modes
+
+🎨 Customizable colors and gradients for active and inactive states
+
+🎨 Flexible border radius settings for all elements
+
+🎨 Custom header text and styling options
+
+🎨 Adjustable day box dimensions and borders
+
+🎨 Support for custom fonts, including Google Fonts
+
+📆 Single date selection functionality
+
+📆 Date range selection with customizable active/inactive ranges
+
+📆 Multiple calendar layout options
+
+🎯 Inside box and outside box day display modes
+
+🎯 Adjustable slot length for different view sizes
+
+📏 Comprehensive set of properties for fine-tuning the calendar appearance and behavior
+
+📱 Seamless integration with Flutter apps
+
+📚 Detailed documentation and usage examples
